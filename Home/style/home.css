@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+
+
+body{
+	background-color: #0D0D0D;
+	width: 100%;
+	height: auto;
+	position: absolute;
+}
+
+
+.conteiner{
+	position: relative;
+	width: 60%;
+	background-color: red;
+
+	margin-left: 20%;
+	margin-right: 20%;
+	height: 100px;
+	
+}
+
+
+
+
+

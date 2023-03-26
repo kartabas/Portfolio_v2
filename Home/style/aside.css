@@ -1,0 +1,149 @@
+aside{
+	position: absolute;
+	width: 30%;
+	height: 1000px;
+	background-color:#202020;
+	display: block;
+	float: left;
+
+	
+}
+
+
+
+.header-avatar{
+	height: 210px;
+}
+
+.header-avatar img{
+	width: 100%;
+}
+
+
+.header-avatar .avatar  {
+	
+	width: 33%;
+	
+}
+
+.avatar{
+	position: relative;
+	top: -50px;
+	left: 34%;
+	border-radius: 90%;
+	box-sizing: border-box;
+}
+
+
+
+.bio-aside {
+	position: relative;
+
+	text-align: center;
+	
+	margin-top:18px;
+	margin-bottom: 18px;
+}
+
+.bio-aside h2 {
+	color: #ffffff;
+	font-size: 18px;
+	font-weight: 400;
+}
+
+.bio-aside p {
+	color: #DEDEDE;
+	font-size: 14px;
+	font-weight: 400;
+}
+
+
+
+.social-items{
+	
+	display: flex;
+	float: left;
+	padding-left:8% ;
+	padding-right: 8%;
+	justify-content: space-evenly;
+	margin-bottom:20px ;
+}
+
+
+.social-items img {
+	width: 90%;
+	
+}
+
+.social-items a {
+	
+	padding-left: 15px;
+}
+
+
+
+hr{
+	width: 80%;
+	border: 1px solid #1C1C1C;
+	margin-top:30px ;
+	margin-bottom:30px ;
+	margin-left: 10%;
+}
+
+
+.text{
+	text-align: center;
+}
+
+.text p{
+	color: #FFFFFF;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 18px;
+}
+
+
+
+
+button a{
+	text-decoration: none;
+	text-transform: none;
+	color: #FFFFFF;
+
+
+}
+
+.myworks  {
+	position: relative;
+	background-color: #ED3024;
+	height: 40px;
+	width: 120px;
+	margin: 5px;
+	border-radius: 25px;
+
+}
+
+.writeme  {
+	position: relative;
+	background-color: #3137C9;
+	height: 40px;
+	width: 120px;
+	margin: 5px;
+	border-radius: 25px;
+
+}
+
+
+ .writeme a:hover{
+
+	font-weight: 600;
+}
+
+
+.myworks a:hover{
+
+	font-weight: 600;
+}

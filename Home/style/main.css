@@ -1,0 +1,74 @@
+.main{
+	position: relative;
+	width: 75%;
+	left: 30%;
+	height: 500px;
+	background-color: aqua;
+
+}
+
+
+.main-conteiner{
+	position: absolute;
+	width: 96%;
+	
+	margin:2%;
+	
+}
+
+.main-block{
+	position: relative;
+	width: 96%;
+
+
+
+}
+
+.main-content{
+	position:absolute;
+	width: 96%;
+	height: 20%;
+	background-color: blue;
+	float:left ;
+	
+}
+
+
+.block1{
+	position:absolute;
+	
+	
+	background-color: black;
+	
+	
+}
+
+.block2{
+	position:absolute;
+	
+	width:100px;
+	height: 150px;
+	background-color: black;
+	
+	
+}
+
+
+.block3{
+	position:absolute;
+	
+	width:100px;
+	height: 150px;
+	background-color: black;
+	left: 350px;
+	
+}
+.block4{
+	position:absolute;
+	
+	width:100px;
+	height: 150px;
+	background-color: black;
+	left: 500px;
+	
+}
